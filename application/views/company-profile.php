@@ -74,50 +74,7 @@
      <div class="container">
 
 
-       <h2 class="back">โรงพยาบาลสัตว์และคลินิก</h2>
-       <br>
-       <h4 class="back"><span class="red">"QUEST"</span> </h4>
-       <p><i class="fa fa-check-circle red" aria-hidden="true"></i> บริษัท ควอลิไฟด์ เอสเซนส์ ซัพพลายเออร์ แอนด์ เทรเซอร์ จำกัด (Qualified Essence Supplier and Tracer)</p>
-       <p><i class="fa fa-check-circle red" aria-hidden="true"></i> เป็นบริษัทคัดสรรและจัดส่งบุคลากรทั้ง สัตวแพทย์ พนักงานตัดขน ผู้ช่วย ที่มีคุณภาพสูงสุด ไปยังคลินิกและโรงพยาบาลสัตว์ของท่าน ทันทีเมื่อท่านต้องการ</p>
-
-       <h4 class="back">ทำไมต้องเลือกบุคลากรจาก <span class="red">"QUEST"</span> เพราะ...</h4>
-       <p><i class="fa fa-check-circle red" aria-hidden="true"></i> คุณภาพ!!    บุคลากรมีประสิทธิภาพ ผ่านการฝึกอบรมมาแล้ว</p>
-       <p><i class="fa fa-check-circle red" aria-hidden="true"></i> บุคลิกภาพ!! มนุษยสัมพันธ์ดี สื่อสารเป็น</p>
-       <p><i class="fa fa-check-circle red" aria-hidden="true"></i> แก้ปัญหา!!  สามารถแก้ปัญหาเฉพาะหน้าได้ดี</p>
-       <p><i class="fa fa-check-circle red" aria-hidden="true"></i> จิตใจดี!!     รักสัตว์ ซื่อสัตย์ ใจเย็น</p>
-       <p><i class="fa fa-check-circle red" aria-hidden="true"></i> อดทน!!      ไม่เกี่ยงงาน ขยัน อดทน สะอาด</p>
-
-       <h4 class="back">ท่านจะหมดปัญหาเรื่อง</h4>
-       <p><i class="fa fa-check-circle red" aria-hidden="true"></i> ขาดคน!!       ต้องการบุคลากรด่วน </p>
-       <p><i class="fa fa-check-circle red" aria-hidden="true"></i> ไล่ออก!!        คุณภาพบุคลากรไม่เป็นที่พึงพอใจอยากไล่ออก</p>
-       <p><i class="fa fa-check-circle red" aria-hidden="true"></i> อยากเที่ยว!!   ปิดร้านด่วนแต่ไม่มีบุคลากรทดแทน </p>
-       <p> <i class="fa fa-check-circle red" aria-hidden="true"></i> ขยายกิจการ!! มีผู้เชี่ยวชาญเฉพาะด้านเฉพาะวัน </p>
-       <p><i class="fa fa-check-circle red" aria-hidden="true"></i> วิชาการ!!      สัมมนาเทรนนิ่งหมอในร้าน</p>
-
-       <br>
-       <h4 class="back"><span class="red">QUEST</span>  มีประสิทธิภาพ จริงใจ รวดเร็ว<br>
-        เราคัดสรรแต่บุคลากรที่ดี มีคุณภาพ ส่งตรงถึงสถานประกอบการของคุณ <br>
-      เราซื่อตรง ใส่ใจ ปัญหาของคุณคือปัญหาของเรา</h4>
-      <br>
-
-      <h2 class="back">สัตวแพทย์ ผู้ช่วยสัตวแพทย์ พนักงานตัดขน</h2>
-      <br>
-      <h4 class="back"><span class="red">"QUEST"</span> ทำอะไร...</h4>
-
-      <p><i class="fa fa-check-circle red" aria-hidden="true"></i> เป็นตัวกลาง!!! ในการเชื่อมต่อคุณกับคลินิกและโรงพยาบาลสัตว์ เพียงแค่ส่งใบสมัครเข้ามา</p>
-      <p> <i class="fa fa-check-circle red" aria-hidden="true"></i> แจ้งงาน!!!  ให้คุณทราบ ว่ามีคลินิกหรือโรงพยาบาลสัตว์ไหนที่ต้องการบุคลากร พร้อม ตำแหน่งที่ตั้ง</p>
-      <p><i class="fa fa-check-circle red" aria-hidden="true"></i> คุณเลือกได้!!!  ไม่ว่าจะเป็น part time หรือ full time </p>
-      <p><i class="fa fa-check-circle red" aria-hidden="true"></i> สมัครฟรี!!!  คุณไม่เสียค่าใช้จ่ายใดๆทั้งสิ้น </p>
-      <br>
-      <h4 class="back"><span class="red">"QUEST"</span>  คุณได้อะไร...</h4>
-
-      <p><i class="fa fa-check-circle red" aria-hidden="true"></i> ได้งาน!!!      โดยไม่ต้องเสียเวลาหา ไม่ว่าจะเป็น Part time หรือ Full time</p>
-      <p><i class="fa fa-check-circle red" aria-hidden="true"></i> เลือกได้!!!     เลือกสถานที่ทำงานได้เอง </p>
-      <p><i class="fa fa-check-circle red" aria-hidden="true"></i> อิสระ!!!         ไม่บังคับจำนวนวันทำงาน ว่างจากงานประจำ อยากหารายได้เสริม</p>
-      <p><i class="fa fa-check-circle red" aria-hidden="true"></i> ฟรี!!!             ไม่เสียค่าใช้จ่ายใดๆทั้งสิ้น</p>
-      <p><i class="fa fa-check-circle red" aria-hidden="true"></i> มีเวลา!!!       จัดสรรตารางงานได้เอง ไม่ผูกมัด</p>
-      <p><i class="fa fa-check-circle red" aria-hidden="true"></i> ค่าตอบแทน!!!   ได้ค่าตอบแทนสูง</p>
-      <p><i class="fa fa-check-circle red" aria-hidden="true"></i> เสริมความรู้!!!   มีคอร์ส อบรม เป็นระยะ</p>
+       <?= $about_Detail_TH ?>
 
     </div>
   </section>

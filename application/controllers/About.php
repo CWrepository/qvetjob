@@ -29,7 +29,7 @@ class About extends CI_Controller {
 	
 	public function index()
 	{
-		$data = $this->Model_about->get_about("about");
+		$data = $this->Model_about->get_about("yme");
 		$data["contact"] = $this->Model_contact->get_detail();	
 		$data["slide"] = $this->Model_slide->get_home();
 		//$data["menu"] = $this->Model_product->get_home("home");
@@ -50,23 +50,23 @@ class About extends CI_Controller {
 
 	public function comprofile()
 	{
-		// $data = $this->Model_about->get_about("about");
-		// $data["contact"] = $this->Model_contact->get_detail();	
-		// $data["slide"] = $this->Model_slide->get_home();
-		// //$data["menu"] = $this->Model_product->get_home("home");
-		// $data['page_url'] = base_url($this->default_page); 
-		// $data['page'] = array(
-		// 	"H_TH"=>"หน้าแรก",
-		// 	"H_EN"=>"Home",
-		// 	"TH"=>"เกี่ยวกับเรา",
-		// 	"EN"=>"Company Profile",
-		// );
+		$data = $this->Model_about->get_about("cp_file");
+		$data["contact"] = $this->Model_contact->get_detail();	
+		$data["slide"] = $this->Model_slide->get_home();
+		//$data["menu"] = $this->Model_product->get_home("home");
+		$data['page_url'] = base_url($this->default_page); 
+		$data['page'] = array(
+			"H_TH"=>"หน้าแรก",
+			"H_EN"=>"Home",
+			"TH"=>"เกี่ยวกับเรา",
+			"EN"=>"Company Profile",
+		);
 
-		// $data["contact"] = $this->Model_contact->get_detail();	
+		$data["contact"] = $this->Model_contact->get_detail();	
 		
-		// //echo "<pre>"; print_r($data); echo "</pre>";	
+		// echo "<pre>"; print_r($data); echo "</pre>";	
 		
-		$this->load->view('company-profile');
+		$this->load->view('company-profile',$data);
 	}
 
 }
